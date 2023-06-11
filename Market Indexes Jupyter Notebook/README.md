@@ -3,7 +3,9 @@ In this folder you will find a project using a dataset of test and training data
 
 # Contents
 -S&P-500 Market Index Model Prediction Jupyter Notebook: Notebook using Seaborn, Scikit-learn, and Pandas python libraries
+
 -SP500_train: Training data for the models in the Jupyter Notebook
+
 -SP500_test: Test data for the models in the Jupyter Notebook
 
 # Link for dataset
