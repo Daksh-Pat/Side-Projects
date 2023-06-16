@@ -1,5 +1,5 @@
-# Portfolio-Projects
-This is supposed to be a collection of all my portfolio projects which I have worked on in my spare time.
+# Side-Projects
+This is supposed to be a collection of all my side projects which I have worked on in my spare time for fun.
 
 # Contents
 -OpenAQ Jupyter notebook: 
