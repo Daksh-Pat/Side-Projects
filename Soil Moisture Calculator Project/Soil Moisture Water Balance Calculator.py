@@ -1,6 +1,7 @@
 #Calculator which takes certain parameters
 #and returns certain values needed for
 #watershed evaluation
+#author:Daksh-Pat
 
 
 #Calculates daily precipitation based on days in the month
