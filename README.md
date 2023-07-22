@@ -10,3 +10,6 @@ A notebook created to analyze the S&P-500 stock market index throughout the year
 
 -Soil Moisture Calculator:
 A small program which calculates certain measurements such at Evapotranspiration, soil water storage, and runoff based on a few parameters such as monthly precipitation and mean temperature. 
+
+-AlphaVantageAPI:
+A notebook which uses the Alpha Vantage stock api to pull daily adjusted stock market values for a selection of companies, saves them onto a dataframe, and uploads them to a BigQuery Cloud database. The info it pulls is the daily open, close, high, low, and volume traded. 
