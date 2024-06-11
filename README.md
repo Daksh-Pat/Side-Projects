@@ -1,5 +1,5 @@
 # Side-Projects
-This is supposed to be a collection of all my side projects which I have worked on in my spare time for fun.
+This is a collection of side-projects with a more fun theme to them
 
 # Contents
 
